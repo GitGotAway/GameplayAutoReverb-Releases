@@ -1,10 +1,6 @@
 <div align="center">
 
-# Gameplay AutoReverb
-
-### Sound like you are in-game.
-
-**Voice Reverb changes Automatically with your Gameplay**
+![Gameplay AutoReverb — Sound like you are in-game. Voice Reverb changes Automatically with your Gameplay.](assets/readme-heading.svg)
 
 [![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
