@@ -21,3 +21,22 @@ Gameplay AutoReverb detects the in-game environment and automatically matches yo
 - **Built for OBS** — Processes your microphone through the included VST3 effect, ready for streams and recordings.
 - **Control when you need it** — Toggle reverb, preview the effect, set a hotkey, and adjust the mix from one panel.
 - **100% local** — Scene detection and audio control run on your PC. No gameplay or microphone audio is uploaded.
+
+## How to install
+
+### Please read
+
+Because the app is still new, Microsoft Defender SmartScreen may not recognize it yet and could display a warning. This is normal.  
+Gameplay AutoReverb is digitally signed in my name and safe to install.
+
+Thank you for giving Gameplay AutoReverb a try!
+
+- Luis
+
+Click **More info**, then **Run anyway** to continue.
+
+## More info
+
+Visit the Gameplay AutoReverb website for more information:
+
+[![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/)
