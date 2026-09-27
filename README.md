@@ -24,19 +24,20 @@ Gameplay AutoReverb detects the in-game environment and automatically matches yo
 
 ## How to install
 
-### Please read
+> [!IMPORTANT]
+> **Please read**
+>
+> Because the app is still new, Microsoft Defender SmartScreen may not recognize it yet and could display a warning. This is normal.  
+> Gameplay AutoReverb is digitally signed in my name and safe to install.
+>
+> Thank you for giving Gameplay AutoReverb a try!
+>
+> \- Luis
+>
+> Click **More info**, then **Run anyway** to continue.
 
-Because the app is still new, Microsoft Defender SmartScreen may not recognize it yet and could display a warning. This is normal.  
-Gameplay AutoReverb is digitally signed in my name and safe to install.
+[![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
-Thank you for giving Gameplay AutoReverb a try!
-
-- Luis
-
-Click **More info**, then **Run anyway** to continue.
-
-## More info
-
-Visit the Gameplay AutoReverb website for more information:
+Visit the website for more information:
 
 [![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/)
