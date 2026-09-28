@@ -13,15 +13,6 @@
 
 ![Gameplay AutoReverb desktop control center](assets/gameplay-autoreverb-preview.png)
 
-## Voice reverb that adapts to your game
-
-Gameplay AutoReverb detects the in-game environment and automatically matches your microphone reverb to the scene.
-
-- **Automatic scene matching** — Adapts reverb as you move between caves, cathedrals, forests, dungeons, and spaceship interiors.
-- **Built for OBS** — Processes your microphone through the included VST3 effect, ready for streams and recordings.
-- **Control when you need it** — Toggle reverb, preview the effect, set a hotkey, and adjust the mix from one panel.
-- **100% local** — Scene detection and audio control run on your PC. No gameplay or microphone audio is uploaded.
-
 ## How to install
 
 > [!IMPORTANT]
@@ -37,6 +28,15 @@ Gameplay AutoReverb detects the in-game environment and automatically matches yo
 > Click **More info**, then **Run anyway** to continue.
 
 [![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+
+## Voice reverb that adapts to your game
+
+Gameplay AutoReverb detects the in-game environment and automatically matches your microphone reverb to the scene.
+
+- **Automatic scene matching** — Adapts reverb as you move between caves, cathedrals, forests, dungeons, and spaceship interiors.
+- **Built for OBS** — Processes your microphone through the included VST3 effect, ready for streams and recordings.
+- **Control when you need it** — Toggle reverb, preview the effect, set a hotkey, and adjust the mix from one panel.
+- **100% local** — Scene detection and audio control run on your PC. No gameplay or microphone audio is uploaded.
 
 Visit the website for more information:
 
