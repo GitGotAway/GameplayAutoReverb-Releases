@@ -31,7 +31,7 @@
 >
 > ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 
-[![Download Now](assets/download-confirm-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+[![Download Now](assets/download-now-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
 ## Voice reverb that adapts to your game
 
