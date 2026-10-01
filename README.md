@@ -2,7 +2,7 @@
 
 ![Gameplay AutoReverb — Sound like you are in-game. Voice Reverb changes Automatically with your Gameplay.](assets/readme-heading.svg)
 
-[![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+[![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](#how-to-install)
 
 [![Latest release](https://img.shields.io/badge/Latest-beta_0.3.1-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
 ![Local processing](https://img.shields.io/badge/Processing-100%25_local-24292f?style=flat)
@@ -26,8 +26,16 @@
 > \- Luis
 >
 > Click **More info**, then **Run anyway** to continue.
+>
+> **1. Click More info**
+>
+> <img src="assets/windows-smartscreen-more-info.png" width="440" alt="Microsoft Defender SmartScreen warning. Click the More info link below the warning text.">
+>
+> **2. Click Run anyway**
+>
+> <img src="assets/windows-smartscreen-run-anyway.png" width="440" alt="Expanded SmartScreen warning showing the publisher Luis Fritsch. Click Run anyway at the bottom left.">
 
-[![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+[![I understand, download now](assets/download-confirm-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
 ## Voice reverb that adapts to your game
 
