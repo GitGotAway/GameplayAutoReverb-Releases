@@ -27,15 +27,11 @@
 >
 > Click **More info**, then **Run anyway** to continue.
 >
-> **1. Click More info**
+> **1. Click More info (left), then 2. Click Run anyway (right).**
 >
-> <img src="assets/windows-smartscreen-more-info.png" width="440" alt="Microsoft Defender SmartScreen warning. Click the More info link below the warning text.">
->
-> **2. Click Run anyway**
->
-> <img src="assets/windows-smartscreen-run-anyway.png" width="440" alt="Expanded SmartScreen warning showing the publisher Luis Fritsch. Click Run anyway at the bottom left.">
+> ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 
-[![I understand, download now](assets/download-confirm-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+[![Download Now](assets/download-confirm-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
 ## Voice reverb that adapts to your game
 
