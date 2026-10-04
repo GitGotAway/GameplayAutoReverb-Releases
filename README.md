@@ -27,11 +27,21 @@
 >
 > Click **More info**, then **Run anyway** to continue.
 >
-> **1. Click More info (left), then 2. Click Run anyway (right).**
->
 > ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 
 [![Download Now](assets/download-now-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
+
+## Floating Overlay
+
+<img src="assets/gameplay-autoreverb-overlay.png" alt="Gameplay AutoReverb floating overlay with reverb controls and live environment percentages" width="450">
+
+Keep reverb controls within reach while gaming.
+
+- Toggle reverb on/off or set a hotkey.
+- Monitor the current reverb and OBS capture preview.
+- Expand to view live environment percentages.
+- Preview the reverb with "Listen to Reverb".
+- Switch to a translucent background.
 
 ## Voice reverb that adapts to your game
 
@@ -45,3 +55,4 @@ Gameplay AutoReverb detects the in-game environment and automatically matches yo
 Visit the website for more information:
 
 [![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/)
+
