@@ -31,17 +31,11 @@
 
 [![Download Now](assets/download-now-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
-## Floating Overlay
+## Overlay
 
 <img src="assets/gameplay-autoreverb-overlay.png" alt="Gameplay AutoReverb floating overlay with reverb controls and live environment percentages" width="450">
 
 Keep reverb controls within reach while gaming.
-
-- Toggle reverb on/off or set a hotkey.
-- Monitor the current reverb and OBS capture preview.
-- Expand to view live environment percentages.
-- Preview the reverb with "Listen to Reverb".
-- Switch to a translucent background.
 
 ## Voice reverb that adapts to your game
 
