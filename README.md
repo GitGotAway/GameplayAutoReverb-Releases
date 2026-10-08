@@ -4,7 +4,7 @@
 
 [![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](#how-to-install)
 
-[![Latest release](https://img.shields.io/badge/Latest-beta_0.3.1-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
+[![Latest release](https://img.shields.io/badge/Latest-beta_0.4.0-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
 ![Local processing](https://img.shields.io/badge/Processing-100%25_local-24292f?style=flat)
 ![Works with OBS](assets/works-with-obs-badge.svg)
 ![For Streaming & Gaming Content](https://img.shields.io/badge/-For_Streaming_%26_Gaming_Content-24292f?style=flat)
@@ -18,14 +18,13 @@
 > [!IMPORTANT]
 > **Please read**
 >
-> Because the app is still new, Microsoft Defender SmartScreen may not recognize it yet and could display a warning. This is normal.  
-> Gameplay AutoReverb is digitally signed in my name and safe to install.
+> Windows SmartScreen may show a pop-up. Gameplay AutoReverb is digitally signed in my name and safe to install.
 >
 > Thank you for giving Gameplay AutoReverb a try!
 >
 > \- Luis
 >
-> Click **More info**, then **Run anyway** to continue.
+> Click **More info** → **Run anyway**.
 >
 > ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 >
