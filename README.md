@@ -2,7 +2,7 @@
 
 ![Gameplay AutoReverb — Sound like you are in-game. Voice Reverb changes Automatically with your Gameplay.](assets/readme-heading.svg)
 
-[![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](#how-to-install)
+[![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
 [![Latest release](https://img.shields.io/badge/Latest-beta_0.4.0-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
 ![Local processing](https://img.shields.io/badge/Processing-100%25_local-24292f?style=flat)
