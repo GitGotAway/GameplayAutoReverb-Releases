@@ -11,7 +11,7 @@
 
 </div>
 
-![Gameplay AutoReverb desktop control center](assets/gameplay-autoreverb-preview.png)
+<img src="assets/gameplay-autoreverb-overlay.png" alt="Gameplay AutoReverb floating overlay with reverb controls and live environment percentages" width="450">
 
 ## How to install
 
@@ -29,10 +29,6 @@
 > ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 >
 > [![Download Now](assets/download-now-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
-
-## Overlay
-
-<img src="assets/gameplay-autoreverb-overlay.png" alt="Gameplay AutoReverb floating overlay with reverb controls and live environment percentages" width="450">
 
 ## Voice reverb that adapts to your game
 
