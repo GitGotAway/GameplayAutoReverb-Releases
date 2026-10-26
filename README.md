@@ -4,7 +4,7 @@
 
 [![Visit GameplayAutoReverb.com](assets/website-button.svg)](https://gameplayautoreverb.com/) [![Download](assets/download-button.svg)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest/download/GameplayAutoReverbSetup.exe)
 
-[![Latest release](https://img.shields.io/badge/Latest-beta_0.4.0-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
+[![Latest release](https://img.shields.io/badge/Latest-beta_0.5.0-24292f?style=flat)](https://github.com/GitGotAway/GameplayAutoReverb-Releases/releases/latest)
 ![Local processing](https://img.shields.io/badge/Processing-100%25_local-24292f?style=flat)
 ![Works with OBS](assets/works-with-obs-badge.svg)
 ![For Streaming & Gaming Content](https://img.shields.io/badge/-For_Streaming_%26_Gaming_Content-24292f?style=flat)
