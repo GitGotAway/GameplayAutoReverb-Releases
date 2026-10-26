@@ -13,6 +13,8 @@
 
 <img src="assets/gameplay-autoreverb-overlay.png" alt="Gameplay AutoReverb floating overlay with reverb controls and live environment percentages" width="450">
 
+<img src="assets/gameplay-autoreverb-app-2026-10-26.png" alt="Gameplay AutoReverb Pro interface with reverb controls and AI model selection" width="774">
+
 ## How to install
 
 > [!IMPORTANT]
