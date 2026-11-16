@@ -47,20 +47,18 @@ The reverb comes from impulse responses measured on location — real caves, cat
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="assets/locations/hamilton.webp" width="240" alt="Stone arches inside Hamilton Mausoleum"><br><b>Hamilton Mausoleum</b><br><sub>Hamilton, Scotland</sub></td>
-    <td align="center" width="33%"><img src="assets/locations/st-albans.webp" width="240" alt="Lady Chapel of St Albans Cathedral"><br><b>St Albans Cathedral</b><br><sub>St Albans, England</sub></td>
-    <td align="center" width="33%"><img src="assets/locations/maes-howe.webp" width="240" alt="Stone walls inside the Maes Howe burial chamber"><br><b>Maes Howe</b><br><sub>Orkney, Scotland</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="assets/locations/tunnel.webp" width="240" alt="Innocent Railway Tunnel in Edinburgh"><br><b>Railway Tunnel</b><br><sub>Edinburgh, Scotland</sub></td>
-    <td align="center" width="33%"><img src="assets/locations/creswell.webp" width="240" alt="Entrance of Robin Hood Cave at Creswell Crags"><br><b>Creswell Crags</b><br><sub>Derbyshire, England</sub></td>
-    <td align="center" width="33%"><img src="assets/locations/koli.webp" width="240" alt="Pine trees and rocks in Koli National Park"><br><b>Koli National Park</b><br><sub>North Karelia, Finland</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="assets/locations/hamilton.webp" width="240" alt="Stone arches inside Hamilton Mausoleum" title="Hamilton Mausoleum, Hamilton, Scotland">
+  <img src="assets/locations/st-albans.webp" width="240" alt="Lady Chapel of St Albans Cathedral" title="St Albans Cathedral, St Albans, England">
+  <img src="assets/locations/maes-howe.webp" width="240" alt="Stone walls inside the Maes Howe burial chamber" title="Maes Howe, Orkney, Scotland">
+</p>
+<p>
+  <img src="assets/locations/tunnel.webp" width="240" alt="Innocent Railway Tunnel in Edinburgh" title="Railway Tunnel, Edinburgh, Scotland">
+  <img src="assets/locations/creswell.webp" width="240" alt="Entrance of Robin Hood Cave at Creswell Crags" title="Creswell Crags, Derbyshire, England">
+  <img src="assets/locations/koli.webp" width="240" alt="Pine trees and rocks in Koli National Park" title="Koli National Park, North Karelia, Finland">
+</p>
 
-<b>· · ·</b>&nbsp; and more in the app
+<b>Hamilton Mausoleum</b> · <b>St Albans Cathedral</b> · <b>Maes Howe</b> · <b>Railway Tunnel</b> · <b>Creswell Crags</b> · <b>Koli National Park</b> and more ...
 
 </div>
 
