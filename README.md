@@ -48,17 +48,17 @@ The reverb comes from impulse responses measured on location — real caves, cat
 <div align="center">
 
 <p>
-  <img src="assets/locations/hamilton.webp" width="240" alt="Stone arches inside Hamilton Mausoleum" title="Hamilton Mausoleum, Hamilton, Scotland">
-  <img src="assets/locations/st-albans.webp" width="240" alt="Lady Chapel of St Albans Cathedral" title="St Albans Cathedral, St Albans, England">
-  <img src="assets/locations/maes-howe.webp" width="240" alt="Stone walls inside the Maes Howe burial chamber" title="Maes Howe, Orkney, Scotland">
+  <img src="assets/locations/hamilton.svg" width="240" alt="Hamilton Mausoleum, Hamilton, Scotland">
+  <img src="assets/locations/st-albans.svg" width="240" alt="St Albans Cathedral, St Albans, England">
+  <img src="assets/locations/maes-howe.svg" width="240" alt="Maes Howe, Orkney, Scotland">
 </p>
 <p>
-  <img src="assets/locations/tunnel.webp" width="240" alt="Innocent Railway Tunnel in Edinburgh" title="Railway Tunnel, Edinburgh, Scotland">
-  <img src="assets/locations/creswell.webp" width="240" alt="Entrance of Robin Hood Cave at Creswell Crags" title="Creswell Crags, Derbyshire, England">
-  <img src="assets/locations/koli.webp" width="240" alt="Pine trees and rocks in Koli National Park" title="Koli National Park, North Karelia, Finland">
+  <img src="assets/locations/tunnel.svg" width="240" alt="Railway Tunnel, Edinburgh, Scotland">
+  <img src="assets/locations/creswell.svg" width="240" alt="Creswell Crags, Derbyshire, England">
+  <img src="assets/locations/koli.svg" width="240" alt="Koli National Park, North Karelia, Finland">
 </p>
 
-<b>Hamilton Mausoleum</b> · <b>St Albans Cathedral</b> · <b>Maes Howe</b> · <b>Railway Tunnel</b> · <b>Creswell Crags</b> · <b>Koli National Park</b> and more ...
+<b>and more ...</b>
 
 </div>
 
