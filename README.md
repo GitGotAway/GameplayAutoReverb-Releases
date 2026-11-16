@@ -18,15 +18,11 @@
 ## How to install
 
 > [!IMPORTANT]
-> **Please read**
->
 > Windows SmartScreen may show a pop-up. Gameplay AutoReverb is digitally signed in my name and safe to install.
 >
 > Thank you for giving Gameplay AutoReverb a try!
 >
 > \- Luis
->
-> Click **More info** → **Run anyway**.
 >
 > ![Microsoft Defender SmartScreen installation steps side by side: More info and Run anyway are marked with blue outlines, arrows, and step numbers. The publisher details are outlined in gold.](assets/windows-smartscreen-guide.png)
 >
